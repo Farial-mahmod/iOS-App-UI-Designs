@@ -2,7 +2,8 @@
 
 This repository contains my list of UI designs similar to vastly used popular apps on the App Store. These are a sort of self-made clones that look alike popular app screens using SwiftUI.
 
-### Note: The UIs of popular apps often change and thus, my works may not exactly match with their designs at a moment in near future.
+### Note:
+The UIs of popular apps often change and thus, my works may not exactly match with their designs at a moment in near future.
 
 
 ## Twitter clone UIs
