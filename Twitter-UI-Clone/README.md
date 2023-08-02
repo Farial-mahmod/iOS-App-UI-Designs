@@ -1,4 +1,4 @@
-## Twitter clone UIs
+## Twitter clone UIs 
 
 ### Signup screen
 ![signup screen clone by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/homescreen.png)
