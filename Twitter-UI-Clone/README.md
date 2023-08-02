@@ -3,7 +3,7 @@
 ### Signup screen
 ![signup screen clone by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/homescreen.png)
 
-### Home without logged-in features screen
+### Home without logged-in features screen 
 ![home screen without logged-in features by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/home-without-login-screen.png)
 
 ### alert dialog box using SwiftUI
