@@ -9,5 +9,7 @@
 ### alert dialog box using SwiftUI
 ![](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/alert-box.png)
 
+
 ### Profile screen without logged-in
+
 ![](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/profile.png)
