@@ -1,7 +1,7 @@
 ## Twitter clone UIs
 
 ### Signup screen
-![signup screen clone by Farial]([th](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/homescreen.png))
+![signup screen clone by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/homescreen.png)
 
 ### Home without logged-in features screen
 ![home screen without logged-in features by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/home-without-login-screen.png)
@@ -11,4 +11,3 @@
 
 ### Profile screen without logged-in
 ![](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/profile.png)
-
