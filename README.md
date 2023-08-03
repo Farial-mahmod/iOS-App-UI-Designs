@@ -9,7 +9,7 @@ The UIs of popular apps often change and thus, my works may not exactly match wi
 ## Twitter clone UIs
 
 ### Signup screen
-![signup screen clone by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/signup-screen.png)
+![signup screen clone by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/Assets.xcassets/homescreen.png)
 
 ### Home without logged-in features screen
 ![home screen without logged-in features by Farial](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Twitter-UI-Clone/home-without-login-screen.png)
