@@ -26,5 +26,7 @@ The UIs of popular apps often change and thus, my works may not exactly match wi
 ### Discover screen
 ![Porsche Discover Screen](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Porsche%20UI%20Clone/Assets.xcassets/porsche-discover-screen.png)
 
+### Account screen
+![Porsche Account Screen](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Porsche%20UI%20Clone/Assets.xcassets/Porsche-account-screen.png)
 
 [to be updated]
