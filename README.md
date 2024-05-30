@@ -5,7 +5,8 @@ This repository contains my list of UI designs similar to vastly used popular ap
 ## Apps covered:
 1. Twitter Clone
 2. Porsche Clone
-3. [ More to be updated ]
+3. Daraz Clone
+4. [ More to be updated ]
 
 ### Note:
 The UIs of popular apps often change and thus, my works may not exactly match with their designs at a moment in near future.
@@ -28,5 +29,10 @@ The UIs of popular apps often change and thus, my works may not exactly match wi
 
 ### Account screen
 ![Porsche Account Screen](https://github.com/Farial-mahmod/iOS-App-UI-Designs/blob/main/Porsche%20UI%20Clone/Assets.xcassets/Porsche-account-screen.png)
+
+## 3. Daraz Clone UIs
+
+### Onboarding screen
+![Screenshot 2024-05-30 at 18 19 42](https://github.com/Farial-mahmod/iOS-App-UI-Designs/assets/60639522/cb3d5dcb-7252-4629-bbef-81a00929885d)
 
 [to be updated]
