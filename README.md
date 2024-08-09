@@ -9,7 +9,7 @@ This repository contains my list of UI designs similar to vastly used popular ap
 4. [ More to be updated ]
 
 ### Note:
-The UIs of popular apps often change and thus, my works may not exactly match with their designs at a moment in near future.
+These UIs are implemented according to the app designs available at the time of implementation. The UIs of popular apps often change and thus, my works may not exactly match with their designs at a moment in near future.
 
 ## 1. Twitter Clone UIs
 
